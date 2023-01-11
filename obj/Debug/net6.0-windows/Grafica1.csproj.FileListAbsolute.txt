@@ -1,0 +1,17 @@
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\bin\Debug\net6.0-windows\Grafica1.exe
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\bin\Debug\net6.0-windows\Grafica1.deps.json
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\bin\Debug\net6.0-windows\Grafica1.runtimeconfig.json
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\bin\Debug\net6.0-windows\Grafica1.dll
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\bin\Debug\net6.0-windows\Grafica1.pdb
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.Form1.resources
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.AssemblyInfo.cs
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.dll
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\refint\Grafica1.dll
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.pdb
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\Grafica1.genruntimeconfig.cache
+C:\Users\Mark\source\repos\codemarked\Python_MIP_22-23\Grafica1\obj\Debug\net6.0-windows\ref\Grafica1.dll
