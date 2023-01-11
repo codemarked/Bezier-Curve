@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mark\\source\\repos\\codemarked\\Python_MIP_22-23\\Grafica1\\Grafica1.csproj",
+      "projectUniqueName": "C:\\Users\\Mark\\source\\repos\\codemarked\\Bezier-Curve\\Grafica1.csproj",
       "projectName": "Grafica1",
-      "projectPath": "C:\\Users\\Mark\\source\\repos\\codemarked\\Python_MIP_22-23\\Grafica1\\Grafica1.csproj",
+      "projectPath": "C:\\Users\\Mark\\source\\repos\\codemarked\\Bezier-Curve\\Grafica1.csproj",
       "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mark\\source\\repos\\codemarked\\Python_MIP_22-23\\Grafica1\\obj\\",
+      "outputPath": "C:\\Users\\Mark\\source\\repos\\codemarked\\Bezier-Curve\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
